@@ -1,2 +1,2 @@
 # experimentoDIC
-análise de um delineamento inteiramente casualizado
+análise de um delineamento inteiramente casualizado.
